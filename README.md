@@ -6,10 +6,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/Amirthalingam015/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amirthalingam015/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Amirthalingam015/Leetcode/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amirthalingam015/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Amirthalingam015/Leetcode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
